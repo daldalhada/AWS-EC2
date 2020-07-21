@@ -94,7 +94,7 @@
 #####  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; - 퍼블릭 도메인으로 접근
 #####  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <em>이 때 애플리케이션에 해당하는 포트번호를 AWS EC2 보안 그룹에서 설정해줘야 함 </em> <br>&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;  <em> ⇒ 설명란 보안그룹에서 보안그룹을 선택 후 인바운드 규칙을 편집을 누르고 포트를 추가</em>
 
-
+<br>
 
 ## EC2 자원 삭제하기
 
